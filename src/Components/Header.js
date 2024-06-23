@@ -101,7 +101,7 @@ function Header() {
           <a
             className="text-xl bg-blue-400 px-1 py-1 rounded-full w-9 h-9"
             download="Hassan_Elsayd_CV.pdf"
-            href="/cv/Hassan Elsayd - CV 2024 -Frontend developer Reactjs - Nextjs.pdf"
+            href="/cv/Hassan_Elsayd_Frontend_Developer_Reactjs_Nextjs.pdf"
           >
             📃
           </a>

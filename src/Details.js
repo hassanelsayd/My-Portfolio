@@ -49,6 +49,13 @@ export const socialMediaUrl = {
 export const workDetails = [
   {
     Position: "Frontend Web Developer",
+    Company: `Beetleware`,
+    Location: "Remotly",
+    Type: "Internship",
+    Duration: "June 2024 - Present",
+  },
+  {
+    Position: "Frontend Web Developer",
     Company: `Elite (Military Service Place)`,
     Location: "Egypt",
     Type: "Full Time",
